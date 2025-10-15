@@ -12,3 +12,4 @@ C:\Users\SmoleSA\Desktop\CursoProgramación\Ejercicios\obj\Debug\net9.0\refint\E
 C:\Users\SmoleSA\Desktop\CursoProgramación\Ejercicios\obj\Debug\net9.0\Ejercicios.pdb
 C:\Users\SmoleSA\Desktop\CursoProgramación\Ejercicios\obj\Debug\net9.0\Ejercicios.genruntimeconfig.cache
 C:\Users\SmoleSA\Desktop\CursoProgramación\Ejercicios\obj\Debug\net9.0\ref\Ejercicios.dll
+C:\Users\SmoleSA\Desktop\CursoProgramación\Ejercicios\obj\Debug\net9.0\Ejercicios.sourcelink.json
