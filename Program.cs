@@ -4,6 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Ejercico1.E1();
+        //EjercicioVariables.Ejecutar();
+        //EjercicioOperaciones.Ejecutar();
+        EjercicioVariables.Ejecutar();
     }
 }

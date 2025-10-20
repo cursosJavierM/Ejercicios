@@ -1,8 +1,8 @@
 namespace Ejercicios;
 
-class Ejercico1
+class EjercicioVariables
 {
-    public static void E1()
+    public static void Ejecutar()
     {
         Console.WriteLine("Introduce tu nombre:");
         string nombre = Console.ReadLine();
