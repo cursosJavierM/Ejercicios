@@ -6,6 +6,6 @@ class Program
     {
         //EjercicioVariables.Ejecutar();
         //EjercicioOperaciones.Ejecutar();
-        EjercicioVariables.Ejecutar();
+        EjercicioOperaciones.Ejecutar();
     }
 }
